@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently from power learn project(PLP) and freecodecamp.<br>🎯 Goals: To be an fullstack developer soon<br>🎲 Fun fact:  Tech is not for lazy follow</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning from power learn project(PLP) and freecodecamp.<br>🎯 Goals: To be fullstack developer soon<br>🎲 Fun fact:  Tech is not for lazy fellow</p>
 
 ###
 
